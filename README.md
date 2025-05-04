@@ -19,6 +19,6 @@ This repository shows how different memory allocations (Stack & Heap) are implem
 Use `javac` and `java` to run Java files.  
 Use `python3` to run Python scripts.
 
-**Name**: Md. Belayet Hossain    
-**Course**: CSC 461 
-**Course Name**: Programming Language Structure
+**Name**: Md. Belayet Hossain    .
+**Course**: CSC 461 .
+**Course Name**: Programming Language Structure.
